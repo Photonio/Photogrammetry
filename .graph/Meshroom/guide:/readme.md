@@ -1,0 +1,3 @@
+- [Is Reality Capture Actually THAT Expensive? 🤔](https://youtu.be/z3aSA0qXsIg)
+- [Meshroom: 3D models from photos using free photogrammetry software](https://youtu.be/yKbyVDK2Ep8)
+- [Photoscanning 100% Free: Complete Meshroom Tutorial | Photogrammetry Course](https://youtu.be/j3lhPKF8qjU)

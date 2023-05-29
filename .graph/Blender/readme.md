@@ -1,1 +1,3 @@
 - [Photoscanning: Free and Easy! (Blender)](https://youtu.be/6VjA9EfkFSc)
+- [Photogrammetry in Blender and Meshroom - Blender Tutorial](https://youtu.be/L_SdlR57NtU)
+- [How to Optimize Photogrammetry Scans with Blender 3.0 - Blender Tutorial](https://youtu.be/I-lH2_Ca3Dw)

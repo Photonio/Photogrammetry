@@ -8,6 +8,14 @@ blog: https://peterfalkingham.com/2021/09/26/meshroom-cl/
 Discuss:
 - https://www.reddit.com/r/photogrammetry/comments/s6n3ln/meshroom_with_amd_graphics_card/
 
-# ROCm CUDA to HIP translation
+## ROCm CUDA to HIP translation
 - https://github.com/alicevision/meshroom/issues/218
 - https://github.com/alicevision/AliceVision/issues/439
+
+
+# Library: C++ SYCL
+source:
+- https://github.com/OpenSYCL/OpenSYCL
+- https://github.com/oneapi-src/SYCLomatic
+
+relation->: https://github.com/alicevision/AliceVision/issues/439

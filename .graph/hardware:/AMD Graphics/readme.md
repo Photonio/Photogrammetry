@@ -1,7 +1,9 @@
 sch: https://www.google.com/search?q=meshroom+amd
 
 # Meshroom CL
-https://peterfalkingham.com/2021/09/26/meshroom-cl/
+Home: https://github.com/openphotogrammetry/meshroomcl
+
+blog: https://peterfalkingham.com/2021/09/26/meshroom-cl/
 
 # ROCm HIPify translation
 - https://github.com/alicevision/meshroom/issues/218

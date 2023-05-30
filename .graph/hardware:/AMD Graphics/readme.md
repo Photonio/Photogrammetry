@@ -11,11 +11,3 @@ Discuss:
 ## ROCm CUDA to HIP translation
 - https://github.com/alicevision/meshroom/issues/218
 - https://github.com/alicevision/AliceVision/issues/439
-
-
-# Library: C++ SYCL
-source:
-- https://github.com/OpenSYCL/OpenSYCL
-- https://github.com/oneapi-src/SYCLomatic
-
-relation->: https://github.com/alicevision/AliceVision/issues/439
